@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/grisha19961116.github.io/static/css/main.6a86ee3e.chunk.css",
-    "main.js": "/grisha19961116.github.io/static/js/main.38fbf54e.chunk.js",
-    "main.js.map": "/grisha19961116.github.io/static/js/main.38fbf54e.chunk.js.map",
-    "runtime-main.js": "/grisha19961116.github.io/static/js/runtime-main.9ff1facc.js",
-    "runtime-main.js.map": "/grisha19961116.github.io/static/js/runtime-main.9ff1facc.js.map",
-    "static/css/2.de71bbd8.chunk.css": "/grisha19961116.github.io/static/css/2.de71bbd8.chunk.css",
-    "static/js/2.ee6f696c.chunk.js": "/grisha19961116.github.io/static/js/2.ee6f696c.chunk.js",
-    "static/js/2.ee6f696c.chunk.js.map": "/grisha19961116.github.io/static/js/2.ee6f696c.chunk.js.map",
-    "index.html": "/grisha19961116.github.io/index.html",
-    "static/css/2.de71bbd8.chunk.css.map": "/grisha19961116.github.io/static/css/2.de71bbd8.chunk.css.map",
-    "static/css/main.6a86ee3e.chunk.css.map": "/grisha19961116.github.io/static/css/main.6a86ee3e.chunk.css.map",
-    "static/js/2.ee6f696c.chunk.js.LICENSE.txt": "/grisha19961116.github.io/static/js/2.ee6f696c.chunk.js.LICENSE.txt"
+    "main.css": "/grisha19961116.github.io/goit-react-hw-01-components/static/css/main.6a86ee3e.chunk.css",
+    "main.js": "/grisha19961116.github.io/goit-react-hw-01-components/static/js/main.38fbf54e.chunk.js",
+    "main.js.map": "/grisha19961116.github.io/goit-react-hw-01-components/static/js/main.38fbf54e.chunk.js.map",
+    "runtime-main.js": "/grisha19961116.github.io/goit-react-hw-01-components/static/js/runtime-main.88d225d5.js",
+    "runtime-main.js.map": "/grisha19961116.github.io/goit-react-hw-01-components/static/js/runtime-main.88d225d5.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/grisha19961116.github.io/goit-react-hw-01-components/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.ee6f696c.chunk.js": "/grisha19961116.github.io/goit-react-hw-01-components/static/js/2.ee6f696c.chunk.js",
+    "static/js/2.ee6f696c.chunk.js.map": "/grisha19961116.github.io/goit-react-hw-01-components/static/js/2.ee6f696c.chunk.js.map",
+    "index.html": "/grisha19961116.github.io/goit-react-hw-01-components/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/grisha19961116.github.io/goit-react-hw-01-components/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.6a86ee3e.chunk.css.map": "/grisha19961116.github.io/goit-react-hw-01-components/static/css/main.6a86ee3e.chunk.css.map",
+    "static/js/2.ee6f696c.chunk.js.LICENSE.txt": "/grisha19961116.github.io/goit-react-hw-01-components/static/js/2.ee6f696c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ff1facc.js",
+    "static/js/runtime-main.88d225d5.js",
     "static/css/2.de71bbd8.chunk.css",
     "static/js/2.ee6f696c.chunk.js",
     "static/css/main.6a86ee3e.chunk.css",
